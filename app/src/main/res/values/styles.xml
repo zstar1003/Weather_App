@@ -1,0 +1,48 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#00000000</item>
+        <item name="colorPrimaryDark">#00000000</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item><!--透明背景-->
+    </style>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--圆环进度条-->
+    <declare-styleable name="RoundProgressBar">
+        <attr name="round_max_progress" format="float"/>
+        <attr name="round_bg_color" format="color"/>
+        <attr name="round_stroke_width" format="dimension"/>
+        <attr name="round_progress" format="float"/>
+        <attr name="round_progress_color" format="color"/>
+        <attr name="round_first_text" format="string"/>
+        <attr name="round_first_text_color" format="color"/>
+        <attr name="round_first_text_size" format="dimension"/>
+        <attr name="round_second_text" format="string"/>
+        <attr name="round_second_text_color" format="color"/>
+        <attr name="round_second_text_size" format="dimension"/>
+        <attr name="round_min_text" format="string"/>
+        <attr name="round_min_text_color" format="color"/>
+        <attr name="round_min_text_size" format="dimension"/>
+        <attr name="round_max_text" format="string"/>
+        <attr name="round_max_text_color" format="color"/>
+        <attr name="round_max_text_size" format="dimension"/>
+        <attr name="round_angle_size" format="float"/>
+        <attr name="round_start_angle" format="float"/>
+    </declare-styleable>
+
+    <style name="ThemeSplash" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--<item name="android:background">@mipmap/ic_launcher</item>-->
+        <item name="android:windowBackground">@drawable/qidong</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+</resources>

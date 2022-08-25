@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">雾霾探测</string>
+    <string name="tile_name">雾霾探测</string>
+    <string name="PingFang_SC_Medium">PingFang-SC-Medium</string>
+    <string name="start_one_Loc">开始单次定位</string>
+    <string name="stop_one_Loc">停止单次定位</string>
+    <string name="start_continue_Loc">开始连续定位</string>
+    <string name="stop_continue_Loc">停止连续定位</string>
+    <string name="continue_Loc_tile">连续定位</string>
+    <string name="one_Loc_tile">单次定位</string>
+</resources>
