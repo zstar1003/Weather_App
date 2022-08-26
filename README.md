@@ -1,11 +1,9 @@
 # Weather_App
 XDU B测雾霾探测系统作品
 
-> 本文是B测雾霾定位探测系统的实验报告，代码解读可以参看视频
+> 本实验源代码：[https://github.com/zstar1003/Weather_App](https://github.com/zstar1003/Weather_App/tree/master)
 
 > 百度地图Demo：[https://download.csdn.net/download/qq1198768105/85551016](https://download.csdn.net/download/qq1198768105/85551016)
-
-> 本实验源代码：[https://github.com/zstar1003/Weather_App](https://github.com/zstar1003/Weather_App/tree/master)
 
 > 安卓或鸿蒙系统可下载安装体验：[https://www.pgyer.com/da5a0209979459912d1a6a4c790a562b](https://www.pgyer.com/da5a0209979459912d1a6a4c790a562b)
 
