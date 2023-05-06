@@ -1,14 +1,34 @@
 # Weather_App
 XDU B测雾霾探测系统作品
 
-> 本实验源代码：[https://github.com/zstar1003/Weather_App](https://github.com/zstar1003/Weather_App/tree/master)
-
-> 百度地图Demo：[https://download.csdn.net/download/qq1198768105/85551016](https://download.csdn.net/download/qq1198768105/85551016)
-
-> 安卓或鸿蒙系统可下载安装体验：[https://www.pgyer.com/da5a0209979459912d1a6a4c790a562b](https://www.pgyer.com/da5a0209979459912d1a6a4c790a562b)
-
 # 详解视频
 b站Link：[https://www.bilibili.com/video/BV1Da41157uV](https://www.bilibili.com/video/BV1Da41157uV)
+
+# 常见问题：
+- 1.项目地址在哪？
+
+项目地址已开源：https://github.com/zstar1003/Weather_App   
+如果对你的工作有所帮助，请点击仓库右上角的star
+
+- 2.下载了AS之后，无法直接运行？
+
+Android项目对gradle版本和jdk版本较为敏感，为正确运行本项目，建议使用和此仓库开发相同的版本
+
+gradle版本：3.6.2
+
+jdk版本：1.8
+
+- 3.使用AS模拟器无法获取定位信息？
+
+本项目的定位信息依赖GPS，通常模拟器不包括GPS信息，因此建议使用电脑连真机进行调试
+
+- 4.天气数据无法获取？
+
+由于和风天气接口更新频繁，原始接口已无法使用，请参考和风天气最新文档或其它类似产品。具体如何进行，可参考视频讲解。
+
+- 5.我是小白，不知道怎么跑这东西？
+
+建议了解一些Android开发的基础知识，跑通第一个AS项目，以及学会如何在AS中设置和切换gradle及jdk版本。
 
 # 1、任务分析
 本次任务要求设计一款手机端雾霾app探测系统，需要满足以下三个功能：
