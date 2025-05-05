@@ -230,4 +230,6 @@ public class Weektime {
 [Android 天气APP（一）开发准备](https://llw-study.blog.csdn.net/article/details/105204552)
 [Android图表MPandroidChart之曲线图绘制教程](https://blog.csdn.net/x541211190/article/details/77389121)
 
+# 贡献指南
+由于和风天气接口变化，当前代码已无法正确获取数据，如果有学弟/学妹正在做了这项作业，解决完接口问题，可以顺便提交一个PR。
 
